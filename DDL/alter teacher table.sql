@@ -1,0 +1,1 @@
+alter table teacher change department dept varchar(1000)
